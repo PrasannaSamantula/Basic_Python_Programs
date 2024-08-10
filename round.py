@@ -1,0 +1,13 @@
+print(round(21))
+print(round(21.73278, 2))
+print(round(21.6))
+print(round(21.4))
+print(round(21.5))
+print(round(20.5))
+print(round(674, 0))
+print(round(674, 1))
+print(round(674, -1))   # 10^-(-1)=10 so ones place=0
+print(round(674, -2))
+print(round(674, -3))
+print(round(21.456, -1))
+print(round(321.456, -2))
